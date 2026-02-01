@@ -252,7 +252,6 @@ padding: 20px 10% 0 10%;
 }
 
 /* footer */
-footer {
   #social-networks {
     text-align: center;
     padding: 20px 0;
@@ -266,7 +265,6 @@ footer {
     padding: 5%;
     color: #3a3a3a;
   }
-}
 
 /* Media query: large or landscape phones (576 and up) */
 @media screen and (min-width: 576px) {
@@ -345,7 +343,7 @@ footer {
     background-position: center;
     position: relative;
    }
-   
+
    #signup-form {
     position: absolute;
     max-width: 400px;
